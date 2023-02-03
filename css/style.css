@@ -1,0 +1,21 @@
+.gradient-text{
+    background: linear-gradient(to right, #ff2600 0%, #e1cb0b 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+.filter::after{
+    content: '';
+    position: absolute;
+    height: 100%;
+    z-index: 20;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.676); 
+}
+.devfolio{
+    margin: 0 auto;
+}
+.vid{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}

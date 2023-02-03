@@ -17,6 +17,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans:wght@400;500;700&display=swap" rel="stylesheet">
     <!-- Tailwind -->
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="./css/style.css  ">
     <!-- Tailwind Elements CSS -->
     <link rel="stylesheet" href="css/index.min.css" />
     <!-- Custom styles -->
@@ -63,7 +64,7 @@
 
 
     </style>
-<nav class="relative w-full flex flex-wrap sticky top-0 items-center justify-between py-3 bg-black text-gray-200 shadow-lg navbar navbar-expand-lg navbar-light">
+<nav class="z-40 relative w-full flex flex-wrap sticky top-0 items-center justify-between py-3 bg-black text-gray-200 shadow-lg navbar navbar-expand-lg navbar-light">
 <div class="container-fluid w-full flex flex-wrap items-center justify-between px-6">
   <button
     class="navbar-toggler text-gray-200 border-0 hover:shadow-none hover:no-underline py-2 px-2.5 bg-transparent focus:outline-none focus:ring-0 focus:shadow-none focus:no-underline"
@@ -157,30 +158,66 @@
 </div>
 </nav>
 
-    <div  class="px-6 py-12 lg:py-24 md:px-12 text-center lg:text-left">
-      <div class="container mx-auto xl:px-12 text-gray-800">
-        <div class="grid lg:grid-cols-2 gap-3 flex items-center">
-          <div class="mt-12 lg:mt-0" style="z-index: 10;">
-            <h1 class="text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12" style="color: #DFBC61;">HackHound <br /><span style="color: #636e72; font-size:60%;">4<sup>th</sup> - 5<sup>th</sup> March</span></h1>
-            <p class="opacity-70; font-family:'Lobster';" style="color: black">
-              HackHound is a 24-hour in-person hackathon that seeks to provide an opportunity for ardent members of the hacker community to showcase the best of their talents and encourage tech culture to the new and old.
-              <br>
-              <br>
+<div
+class="relative pt-16 pb-32 flex content-center items-center justify-center filter"
+style="min-height: 100vh;"
+>
+<video
+    autoplay
+    loop
+    muted
+    class="absolute top-0 w-full z-20 vid"
+  >
+    <source
+      src="https://joy1.videvo.net/videvo_files/video/free/2015-10/large_watermarked/Typing_dark_05_Videvo_preview.mp4"
+      type="video/mp4"
+    />
+  </video>
+  <div class="container relative mx-auto z-30 ">
+    <div class="items-center flex flex-wrap">
+      <div class="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
+        <div class="pr-1">
+          <p class="text-white font-bold text-6xl gradient-text pb-7">
+            HackHound
+          </p>
+          <h1 class="text-white font-bold text-4xl">4<sup>th</sup> - 5<sup>th</sup> March</h1>
+          <p class="mt-4 text-lg text-gray-300">
+            HackHound is a 24-hour in-person hackathon that seeks to provide an opportunity for ardent members of the hacker community to showcase the best of their talents and encourage tech culture to the new and old.
+          </p>
+          <br><br>
           <div 
-              class="apply-button" 
-              data-hackathon-slug="HACKHOUND" 
-              data-button-theme="light"
-              style="height: 44px; width: 312px"
-            ></div>
-            </p>
-          </div>
-          <div class="md:mb-12 xl:mb-0">
-            <img src="./img/1461.png"
-                class="rounded-lg rotate-lg-10" alt="" />
-          </div>
+            class="apply-button devfolio" 
+            data-hackathon-slug="HACKHOUND" 
+            data-button-theme="dark-inverted"
+            style="height: 44px; width: 312px"
+          ></div>
         </div>
       </div>
     </div>
+  
+  </div>
+  <div
+    class="top-auto bottom-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden"
+    style="height: 70px;"
+  >
+    <svg
+      class="absolute bottom-0 overflow-hidden"
+      xmlns="http://www.w3.org/2000/svg"
+      preserveAspectRatio="none"
+      version="1.1"
+      viewBox="0 0 2560 100"
+      x="0"
+      y="0"
+    >
+      <polygon
+        class="text-gray-300 fill-current"
+        points="2560 0 2560 100 0 100"
+      ></polygon>
+    </svg>
+  </div>
+</div>
+
+</div>
   </section>
 
 
@@ -222,7 +259,7 @@
   
   </div>
   <div class="container my-24 px-6 mx-auto" id="why">
-
+    
     <!-- Section: Design Block -->
     <section class="mb-32 text-gray-800">
       <div class="flex justify-center">
@@ -703,24 +740,27 @@
             </p>
           </div>
         </div>
+        <h3 class="text-center">Make sure to read the <a class="text-blue-600" href="https://mlh.io/code-of-conduct" target="_blank">code of conduct.</a></h3>
       </section>
       <!-- Section: Design Block -->
     
     </div>
     <!-- End your project here-->
 
-    <div id="sponsors" class="container my-24 px-6 mx-auto scroll-smooth">
-  
+    <div id="sponsors" class="container my-24 px-6 mx-auto scroll-smooth text-center">
+      
+      <h2 class="text-3xl font-bold mb-12">Our Sponsors</h2>
+
       <!-- Section: Design Block -->
-      <section class="mb-32 text-gray-800 text-center">
+      <section class="mb-20 text-gray-800 text-center">
         <style>
           .grayscale {
             filter: grayscale(100%);
           }
         </style>
-        <h2 class="text-3xl font-bold mb-12">Our <u class="">Sponsors</u> </h2>
+        <h2 class="text-2xl font-bold mb-12"><u class="">Platinum</u> </h2>
     
-        <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6 items-center">
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 items-center">
           <div class="mb-12 lg:mb-0">
             <img
               src="./img/devfolio.png"
@@ -744,14 +784,6 @@
               alt="Nike - logo"
             />
           </div>
-    
-          <div class="mb-12 lg:mb-0">
-            <img
-              src="./img/interview cake.jpg"
-              class="img-fluid  px-6 md:px-12"
-              alt="Ikea - logo"
-            />
-          </div>
         </div>
       </section>
       <!-- Section: Design Block -->
@@ -760,30 +792,17 @@
     <div class="container my-24 px-6 mx-auto">
 
       <!-- Section: Design Block -->
-      <section class="mb-32 text-gray-800 text-center">
+      <section class="mb-15 text-gray-800 text-center">
         <style>
           .grayscale {
             filter: grayscale(100%);
           }
         </style>
-        <h2 class="text-3xl font-bold mb-12">and many <u class="">more</u> ..</h2>
+        <h2 class="text-2xl font-bold mb-12"><u class="">Gold</u></h2>
     
-        <div class="grid md:grid-cols-2 lg:grid-cols-6 px-6">
-          <div class="mb-12 lg:mb-0 mx-auto">
-            <img
-              src="./img/axure.png"
-              class="img-fluid"
-              style="max-width: 90px"
-            />
-          </div>
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 px-6">
     
-          <div class="mb-12 lg:mb-0 mx-auto">
-            <img
-              src="https://i.imgur.com/aaGzc4s.jpg"
-              class="img-fluid "
-              style="max-width: 90px"
-            />
-          </div>
+
     
           <div class="mb-12 lg:mb-0 mx-auto">
             <img
@@ -793,13 +812,7 @@
             />
           </div>
     
-          <div class="mb-12 lg:mb-0 mx-auto">
-            <img
-              src="./img/akvis.png"
-              class="img-fluid"
-              style="max-width: 90px"
-            />
-          </div>
+      
     
           <div class="mb-12 lg:mb-0 mx-auto">
             <img
@@ -820,7 +833,66 @@
         </div>
       </section>
       <!-- Section: Design Block -->
+      <section class="mb-15 text-gray-800 text-center">
+        <style>
+          .grayscale {
+            filter: grayscale(100%);
+          }
+        </style>
+        <h2 class="text-3xl font-bold mb-12"><u class="">In-Kind</u></h2>
+    
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 px-6">
+    
+
+    
+          <div class="mb-12 lg:mb-0 mx-auto">
+            <img
+              src="./img/interview cake.jpg"
+              class="img-fluid"
+              style="max-width: 200px"
+            />
+          </div>
+    
       
+    
+          <div class="mb-12 lg:mb-0 mx-auto">
+            <img
+              src="./img/akvis.png"
+              class="img-fluid"
+              style="max-width: 90px"
+            />
+          </div>
+    
+          <div class="mb-12 lg:mb-0 mx-auto">
+            <img
+              src="./img/axure.png"
+              class="img-fluid"
+              style="max-width: 90px"
+              alt="Sony - logo"
+            />
+          </div>
+        </div>
+      </section>
+      <section class="mb-15 text-gray-800 text-center">
+        <style>
+          .grayscale {
+            filter: grayscale(100%);
+          }
+        </style>
+        <h2 class="text-3xl font-bold mb-12"><u class="">Community Partner</u></h2>
+    
+        <div class="grid md:grid-cols-2 lg:grid-cols-1 px-6">
+    
+          <div class="mb-12 lg:mb-0 mx-auto">
+            <img
+              src="./img/https://i.imgur.com/aaGzc4s.jpg"
+              class="img-fluid"
+              style="max-width: 200px"
+            />
+          </div>
+  
+        </div>
+      </section>
     </div>
     
 
