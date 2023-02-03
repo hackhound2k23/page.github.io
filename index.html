@@ -17,6 +17,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans:wght@400;500;700&display=swap" rel="stylesheet">
     <!-- Tailwind -->
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="./css/style.css  ">
     <!-- Tailwind Elements CSS -->
     <link rel="stylesheet" href="css/index.min.css" />
     <!-- Custom styles -->
@@ -63,7 +64,7 @@
 
 
     </style>
-<nav class="relative w-full flex flex-wrap sticky top-0 items-center justify-between py-3 bg-black text-gray-200 shadow-lg navbar navbar-expand-lg navbar-light">
+<nav class="z-40 relative w-full flex flex-wrap sticky top-0 items-center justify-between py-3 bg-black text-gray-200 shadow-lg navbar navbar-expand-lg navbar-light">
 <div class="container-fluid w-full flex flex-wrap items-center justify-between px-6">
   <button
     class="navbar-toggler text-gray-200 border-0 hover:shadow-none hover:no-underline py-2 px-2.5 bg-transparent focus:outline-none focus:ring-0 focus:shadow-none focus:no-underline"
@@ -157,30 +158,66 @@
 </div>
 </nav>
 
-    <div  class="px-6 py-12 lg:py-24 md:px-12 text-center lg:text-left">
-      <div class="container mx-auto xl:px-12 text-gray-800">
-        <div class="grid lg:grid-cols-2 gap-3 flex items-center">
-          <div class="mt-12 lg:mt-0" style="z-index: 10;">
-            <h1 class="text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12" style="color: #DFBC61;">HackHound <br /><span style="color: #636e72; font-size:60%;">4<sup>th</sup> - 5<sup>th</sup> March</span></h1>
-            <p class="opacity-70; font-family:'Lobster';" style="color: black">
-              HackHound is a 24-hour in-person hackathon that seeks to provide an opportunity for ardent members of the hacker community to showcase the best of their talents and encourage tech culture to the new and old.
-              <br>
-              <br>
+<div
+class="relative pt-16 pb-32 flex content-center items-center justify-center filter"
+style="min-height: 100vh;"
+>
+<video
+    autoplay
+    loop
+    muted
+    class="absolute top-0 w-full z-20"
+  >
+    <source
+      src="https://joy1.videvo.net/videvo_files/video/free/2015-10/large_watermarked/Typing_dark_05_Videvo_preview.mp4"
+      type="video/mp4"
+    />
+  </video>
+  <div class="container relative mx-auto z-30 ">
+    <div class="items-center flex flex-wrap">
+      <div class="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
+        <div class="pr-12">
+          <h1 class="text-white font-bold text-7xl gradient-text">
+            HackHound
+          </h1>
+          <h1 class="text-white font-bold text-4xl">4<sup>th</sup> - 5<sup>th</sup> March</h1>
+          <p class="mt-4 text-lg text-gray-300">
+            HackHound is a 24-hour in-person hackathon that seeks to provide an opportunity for ardent members of the hacker community to showcase the best of their talents and encourage tech culture to the new and old.
+          </p>
+          <br><br>
           <div 
-              class="apply-button" 
-              data-hackathon-slug="HACKHOUND" 
-              data-button-theme="light"
-              style="height: 44px; width: 312px"
-            ></div>
-            </p>
-          </div>
-          <div class="md:mb-12 xl:mb-0">
-            <img src="./img/1461.png"
-                class="rounded-lg rotate-lg-10" alt="" />
-          </div>
+            class="apply-button devfolio" 
+            data-hackathon-slug="HACKHOUND" 
+            data-button-theme="dark-inverted"
+            style="height: 44px; width: 312px"
+          ></div>
         </div>
       </div>
     </div>
+  
+  </div>
+  <div
+    class="top-auto bottom-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden"
+    style="height: 70px;"
+  >
+    <svg
+      class="absolute bottom-0 overflow-hidden"
+      xmlns="http://www.w3.org/2000/svg"
+      preserveAspectRatio="none"
+      version="1.1"
+      viewBox="0 0 2560 100"
+      x="0"
+      y="0"
+    >
+      <polygon
+        class="text-gray-300 fill-current"
+        points="2560 0 2560 100 0 100"
+      ></polygon>
+    </svg>
+  </div>
+</div>
+
+</div>
   </section>
 
 
@@ -222,7 +259,7 @@
   
   </div>
   <div class="container my-24 px-6 mx-auto" id="why">
-
+    
     <!-- Section: Design Block -->
     <section class="mb-32 text-gray-800">
       <div class="flex justify-center">
