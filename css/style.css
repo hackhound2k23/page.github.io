@@ -14,3 +14,8 @@
 .devfolio{
     margin: 0 auto;
 }
+.vid{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
