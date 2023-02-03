@@ -12,6 +12,8 @@
     background: rgba(0, 0, 0, 0.676); 
 }
 .devfolio{
+    display: flex;
+    justify-content: center;
     margin: 0 auto;
 }
 .vid{
