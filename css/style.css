@@ -45,3 +45,15 @@
 .timer-title{
     color: #f39c12;
 }
+.title-wrap{
+    display: inline-flex;
+    /* flex-direction: column; */
+    position: relative;
+}
+.title-wrap img{
+    width: 5rem;
+    height:5rem;
+}
+.title-wrap h5{
+    margin: auto 0;
+}
