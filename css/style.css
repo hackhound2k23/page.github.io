@@ -57,3 +57,7 @@
 .title-wrap h5{
     margin: auto 0;
 }
+.custom-size{
+    width: auto !important;
+    height: auto ;
+}
