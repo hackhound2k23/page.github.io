@@ -20,6 +20,6 @@ var x = setInterval(function() {
   // If the count down is over, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("day").innerHTML = "EXPIRED";
+    document.getElementById("day").innerHTML = "PROBLEM STATEMENTS ARE OUT!";
   }
 }, 1000);
