@@ -16,7 +16,7 @@
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-  |{}|{how many new hackers did you have?}|[{your project count & embedded project submission page link}](https://abstracthacks.devpost.com/project-gallery)| 
+  |222|80|[42]([https://abstracthacks.devpost.com/project-gallery](https://hackhound.devfolio.co/projects))| 
 
 ## Tech Impact / Diversity 
 
