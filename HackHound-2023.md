@@ -47,21 +47,19 @@ We had a GitHub integration challenge as one of our mini-events. Participants we
 
 ## Impact of GitHub Grant
 - How did you use the grant funds? <br>
- GitHub grant funds were utilised in arranging more snacks for the hackers. The amount was also crucial in boosting amenities for our hackers with better Wifi routers and internet speed.
+ GitHub grant funds were utilised in arranging more snacks for the hackers. The amount was also crucial in boosting amenities for our hackers with better Wifi routers and internet speed. We had arranged healthy lunches for hackers but Github Grant enabled us to provide unlimited coffee and snacks every 3 hours of the hack. This boosted the haclers morale and provided them short breaks in between. The snacks corners were also important since they provided interaction and networking in between hackers. 
 - How did the funds positively affect the outcomes of your event participants? <br>
- The funds had a huge affect on the hackers sing
-
+ The funds had a huge affect on the hackers experience since they had a good internet connection all the time and great snacks to relish them from time to time. This was positive for hackers since they were not just enclosed in their corners coding.
 ## Top Projects
 
 - What were some of the coolest projects at your event? <br> 
-Some of the coolest projects were Martian Munchies(https://devfolio.co/projects/martian-munchies-49b4) 
+Some of the coolest projects were [Martian Munchies](https://devfolio.co/projects/martian-munchies-49b4) , [Aim-Assist](https://devfolio.co/projects/aimassist-08f9) , [UnStarve](https://devfolio.co/projects/aimassist-08f9)
 - We also want to see how hackers used GitHub at the event <br>
-- What made them special? _Include the link to their website, Devpost or video._
+ The hackers utilised GitHub as the primary space of coding and collaborating together. GitHub was also easy to use by beginners due to its interactive web interface and easy and availble articles and guidelines.
+- What made them special? <br>
+The projects were special becuase they integrated multiple services in just 24 hours and embibed the guidance by mentors to the fullest. Their dedication and determination to complete it within the stipulated time was commmendable and motivating for others.
 
 ## Event Photos
-
-- We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
 
 | <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
 |:--:|
