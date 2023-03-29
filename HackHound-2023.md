@@ -1,8 +1,8 @@
 # HackHound
 > 24 Hour Offline Hackathon <br>
- - **Saturday, 4th March 2023 to Sunday, 5th March 2023** 
- - **SRM Institute of Science and Technology, NCR Campus**
- - **Modinagar, Ghaziabad, Uttar Pradesh, India**  
+ - Saturday, 4th March 2023 to Sunday, 5th March 2023 
+ - SRM Institute of Science and Technology, NCR Campus
+ - Modinagar, Ghaziabad, Uttar Pradesh, India  
 
 ## Event Summary
 
@@ -25,10 +25,9 @@ HackHound was unique because we focused on bringing together people from diverse
 _One of the coolest features of our hackathon was the recreational  area that we set up for participants which included games like chess, table tennis and badminton. It allowed them to take a break from coding and was a fun way to blow off steam and connect with others.
 We put on a series of workshops that were extremely helpful for participants who wanted to learn new skills or refine their existing ones. We had a session by digital ocean on (…) and a session by Spheron on (…). MLH conducted a workshop as well on (…) which  provided valuable insights that the participants could apply to their projects._
 
-- How was **GitHub** featured at your event? <br>
+- How was GitHub featured at your event? <br>
 _We used GitHub extensively as our primary platform for hosting and sharing the participants' projects. All the teams had their own repository where they could collaborate, push their code, and track their progress.
-We had a GitHub integration challenge as one of our mini-events. Participants were challenged to create a project that integrated with GitHub in a creative and innovative way. The best project received a prize, and it was a fun way to encourage participants to explore the capabilities of GitHub._ 
-
+We had a GitHub integration challenge as one of our mini-events. Participants were challenged to create a project that integrated with GitHub in a creative and innovative way. The best project received a prize, and it was a fun way to encourage participants to explore the capabilities of GitHub._ 
 
 ## Event Metrics 
 
@@ -60,9 +59,43 @@ Some of the coolest projects were [Martian Munchies](https://devfolio.co/project
 The projects were special becuase they integrated multiple services in just 24 hours and imbibed the guidance by mentors to the fullest. Their dedication and determination to complete it within the stipulated time was commmendable and motivating for others.
 
 ## Event Photos
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="400" height="auto"> |
+
+
+| <img src="https://i.imgur.com/CZFBEN0.jpg" width="400" height="auto"> |
+|:--:|
+| <b> Inaugration Ceremony</b>|
+
+| <img src="https://i.imgur.com/sOJcOmQ.jpg[/img]" width="400" height="auto"> |
+|:--:|
+| <b> Lunch </b>|
+
+| <img src="https://i.imgur.com/cEGJHI0.jpg[/img]" width="400" height="auto"> |
+|:--:|
+| <b> Mentoring Session </b>|
+
+| <img src="https://i.imgur.com/PnGNmsD.jpg[/img]" width="400" height="auto"> |
+|:--:|
+| <b> Speaker Session by Aaishika S Bhattacharya</b>|
+
+| <img src="https://i.imgur.com/LZ7Pon7.jpg" width="400" height="auto"> |
 |:--:|
 | <b> A group of hackers hanging out! </b>|
+
+| <img src="https://i.imgur.com/1AmWe2E.jpg[/img]" width="400" height="auto"> |
+|:--:|
+| <b> Hackers on a break! <b>|
+
+| <img src="https://i.imgur.com/mnuqXze.jpg[/img]" width="400" height="auto"> |
+|:--:|
+| <b> Hackers presenting their project to judges.</b>|
+
+<img src="https://i.imgur.com/npNaCWa.jpg[/img]" width="400" height="auto"> |
+|:--:|
+| <b> Prize Ceremony</b>|
+
+| <img src="https://i.imgur.com/16hgCeU.jpg[/img]" width="400" height="auto"> |
+|:--:|
+| <b> Organizing Team</b>|
 
 
 
