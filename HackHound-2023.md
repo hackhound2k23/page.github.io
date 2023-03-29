@@ -47,7 +47,7 @@ We had a GitHub integration challenge as one of our mini-events. Participants we
 
 ## Impact of GitHub Grant
 - How did you use the grant funds? <br>
- GitHub grant funds were utilised in arranging more snacks for the hackers. The amount was also crucial in boosting amenities for our hackers with better Wifi routers and internet speed. We had arranged healthy lunches for hackers but Github Grant enabled us to provide unlimited coffee and snacks every 3 hours of the hack. This boosted the haclers morale and provided them short breaks in between. The snacks corners were also important since they provided interaction and networking in between hackers. 
+ GitHub grant funds were utilised in arranging more snacks for the hackers. The amount was also crucial in boosting amenities for our hackers with better Wifi routers and internet speed. We had arranged healthy lunches for hackers but Github Grant enabled us to provide unlimited coffee and snacks every 3 hours of the hack. This boosted the hackers morale and provided them short breaks in between. The snacks corners were also important since they provided interaction and networking in between hackers. 
 - How did the funds positively affect the outcomes of your event participants? <br>
  The funds had a huge affect on the hackers experience since they had a good internet connection all the time and great snacks to relish them from time to time. This was positive for hackers since they were not just enclosed in their corners coding.
 ## Top Projects
@@ -57,13 +57,14 @@ Some of the coolest projects were [Martian Munchies](https://devfolio.co/project
 - We also want to see how hackers used GitHub at the event <br>
  The hackers utilised GitHub as the primary space of coding and collaborating together. GitHub was also easy to use by beginners due to its interactive web interface and easy and availble articles and guidelines.
 - What made them special? <br>
-The projects were special becuase they integrated multiple services in just 24 hours and embibed the guidance by mentors to the fullest. Their dedication and determination to complete it within the stipulated time was commmendable and motivating for others.
+The projects were special becuase they integrated multiple services in just 24 hours and imbibed the guidance by mentors to the fullest. Their dedication and determination to complete it within the stipulated time was commmendable and motivating for others.
 
 ## Event Photos
-
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="400" height="auto"> |
 |:--:|
 | <b> A group of hackers hanging out! </b>|
+
+
 
 ## What’s Next?
 - What are the dates for your future hackathon? <br>
